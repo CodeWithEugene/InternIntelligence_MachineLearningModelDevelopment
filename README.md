@@ -1,4 +1,4 @@
-# README 📊  
+# Predicting Customer Churn Using the Telco Customer Churn Dataset 📊  
 
 ## Project Overview 🌟  
 This project focuses on predicting customer churn using the Telco Customer Churn dataset. The goal is to identify customers at risk of leaving and enable proactive retention strategies. The analysis involves data preprocessing, feature engineering, model training, and evaluation.  
